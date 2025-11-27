@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dhruvi-patel24)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **dhruvi-patel24/dhruvi-patel24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
